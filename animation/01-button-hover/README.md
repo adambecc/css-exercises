@@ -8,5 +8,8 @@ Use a transition to scale the button when you hover your mouse over it.
 
 ### Self Check
 - Does the button grow when you hover it?
+    yes
 - Do other properties of the button remain unchanged?
+    yes
 - Does the `:hover` pseudo-class trigger the transition?
+    yes, the ratio of the size
