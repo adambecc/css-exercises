@@ -1,0 +1,32 @@
+
+.number1, .number3, .number5 {
+    background-color: lightpink;
+    font: menu;
+}
+
+.number2 {
+    color: blue;
+    font-size: 46px;
+    font-weight: bold;
+}
+
+.number4{
+    background-color: lightgreen;
+}
+
+.number4 {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.number5 {
+    font-size: x-large;
+}
+
+.number3 {
+    font-size: 39px;
+}
+
+.number1 {
+    font-size: 29px;
+}

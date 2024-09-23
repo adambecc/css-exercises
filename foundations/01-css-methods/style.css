@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+    font-weight:900 ;
+    font-size:x-large ;
+}
+
+button {
+    background-color: orange;
+}
+
+.text {
+    background-color: green;
+    color: white;
+}
+
+.title{
+    background-color: red;
+    color: white;
+}

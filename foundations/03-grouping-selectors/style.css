@@ -1,0 +1,21 @@
+.black {
+    background-color: black;
+    color: white;
+    font-size: 70px;
+    border: 3px solid black;
+}
+
+.yellow {
+    background-color: yellow;
+    font-size: 70px;
+    border: 3px solid black;
+}
+
+.box {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 10px;
+}
